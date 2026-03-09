@@ -1,0 +1,10 @@
+uvicorn==0.24.0
+fastapi
+sqlalchemy
+pymysql
+python-dotenv
+python-multipart
+pydantic
+PyPDF2
+python-docx
+
